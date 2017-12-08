@@ -2,8 +2,9 @@
 This is a simple, yet powerful command line translator with baidu translate
 命令行下翻译工具，翻译服务基于百度翻译
 
+https://github.com/yangyang-zhang/query
 ## install 安装
-pip install query
+pip install query-cli
 
 ## Usage 用法
 

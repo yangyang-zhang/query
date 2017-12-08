@@ -6,7 +6,7 @@ from setuptools import setup, find_packages
 
 __author__ = 'YangYang'
 __author_email__ = 'zhang-yangyang@foxmail.com'
-__version__ = '0.1'
+__version__ = '1.0'
 __license__ = 'MIT'
 
 here = os.path.abspath(os.path.dirname(__file__))

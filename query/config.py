@@ -18,10 +18,10 @@ Options:
 """
 import random
 
-__name__ = 'query'
+__name__ = 'query-cli'
 __author__ = 'YangYang'
 __author_email__ = 'zhang-yangyang@foxmail.com'
-__version__ = '0.1'
+__version__ = '1.0'
 __license__ = 'MIT'
 __description__ = 'This is a simple, yet powerful command line translator with baidu translate'
 
